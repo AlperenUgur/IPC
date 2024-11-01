@@ -1,0 +1,10 @@
+/home/alperen/projects/helloworld/IPC/build/CMakeFiles/client.dir
+/home/alperen/projects/helloworld/IPC/build/CMakeFiles/server.dir
+/home/alperen/projects/helloworld/IPC/build/CMakeFiles/package.dir
+/home/alperen/projects/helloworld/IPC/build/CMakeFiles/package_source.dir
+/home/alperen/projects/helloworld/IPC/build/CMakeFiles/edit_cache.dir
+/home/alperen/projects/helloworld/IPC/build/CMakeFiles/rebuild_cache.dir
+/home/alperen/projects/helloworld/IPC/build/CMakeFiles/list_install_components.dir
+/home/alperen/projects/helloworld/IPC/build/CMakeFiles/install.dir
+/home/alperen/projects/helloworld/IPC/build/CMakeFiles/install/local.dir
+/home/alperen/projects/helloworld/IPC/build/CMakeFiles/install/strip.dir

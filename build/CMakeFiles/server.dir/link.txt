@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/server.dir/src/game/ticTacToe.cpp.o CMakeFiles/server.dir/src/server/server.cpp.o -o server 
